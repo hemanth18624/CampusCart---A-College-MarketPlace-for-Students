@@ -52,3 +52,38 @@ CampusCart is a MERN stack-based web application designed exclusively for colleg
 ---
 
 
+## Future Enhancements  
+CampusCart is a growing project with many exciting possibilities for future development. Here are some features planned for upcoming releases:  
+
+1. **Real-Time Chat System**:  
+   - Enable buyers and sellers to negotiate and communicate directly within the platform.  
+
+2. **Secure Payment Gateway**:  
+   - Integrate a payment system to facilitate secure online transactions.  
+
+3. **Mobile Application**:  
+   - Develop a mobile app to improve accessibility and convenience for users.  
+
+4. **Review & Feedback System**:  
+   - Allow users to rate and review sellers to build trust within the community.  
+
+5. **AI-Powered Recommendations**:  
+   - Suggest products to users based on their search history and preferences.  
+
+6. **Enhanced Search Filters**:  
+   - Add advanced filtering options (e.g., price range, location, and item condition) for more precise search results.  
+
+7. **Push Notifications**:  
+   - Notify users about new product listings, updates, or price drops.  
+
+8. **Multilingual Support**:  
+   - Expand accessibility by supporting multiple languages.  
+
+---
+
+## License  
+This project is licensed under the **MIT License**.  
+
+---
+
+
