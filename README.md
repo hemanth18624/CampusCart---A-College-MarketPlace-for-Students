@@ -46,8 +46,8 @@ CampusCart is a MERN stack-based web application designed exclusively for colleg
 - **Frontend**: React.js, TailwindCSS  
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB  
-- **Authentication**: Google OAuth 2.0  
-- **Others**: RESTful APIs, JWT for secure access  
+- **Authentication**: JWT Token Authentication  
+- **Others**: Redis 
 
 ---
 
