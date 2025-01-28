@@ -14,6 +14,14 @@ const app = express();
 
 const PORT = process.env.PORT || 9080;
 
+
+
+
+app.use((req, res, next) => {
+  res.setHeader('Cache-Control', 'no-store');
+  next();
+});
+
 const __dirname = path.resolve();
 
 app.use(express.json({limit: "50mb"}));
