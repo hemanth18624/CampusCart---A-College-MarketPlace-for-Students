@@ -23,7 +23,7 @@ const userSchema = new mongoose.Schema({
     year : {
         type : Number,
         min : 1,
-        max : 3,
+        max : 4,
         required : true
     },
     branch : {
