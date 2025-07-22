@@ -202,7 +202,7 @@ const SignUpPage = () => {
 						</div>
 						<div>
 							<label htmlFor='instagramURL' className='block text-sm font-medium text-gray-300'>
-								Instagram URL(Optional)
+								Instagram URL
 							</label>
 							<div className='mt-1 relative rounded-md shadow-sm'>
 								<div className='absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none'>
@@ -222,7 +222,7 @@ const SignUpPage = () => {
 						</div>
 						<div>
 							<label htmlFor='XURL' className='block text-sm font-medium text-gray-300'>
-								X URL(Optional)
+								X URL
 							</label>
 							<div className='mt-1 relative rounded-md shadow-sm'>
 								<div className='absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none'>
@@ -242,7 +242,7 @@ const SignUpPage = () => {
 						</div>
 						<div>
 							<label htmlFor='facebookURL' className='block text-sm font-medium text-gray-300'>
-								Facebook URL(Optional)
+								Facebook URL
 							</label>
 							<div className='mt-1 relative rounded-md shadow-sm'>
 								<div className='absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none'>
